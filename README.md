@@ -21,7 +21,7 @@
   <img align="center" alt="Phtado-CSS" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Phtado-DELPHI" height="30" width="40" 
-       src="https://github.com/aoticombr/phtado/blob/main/0386a54233f166874f0e8da3ec431b8c.svg">
+       src="https://github.com/aoticombr/phtado/blob/main/0386a54233f166874f0e8da3ec431b8c.png">
   <img align="center" alt="Phtado-CSS" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Phtado-CSS" height="30" width="40" 
