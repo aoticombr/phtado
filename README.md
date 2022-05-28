@@ -10,9 +10,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh9-1.fna.fbcdn.net/v/t51.2885-19/264220838_617920306190935_5592170379746056073_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=pvSBNmtyqrEAX8uHtVv&tn=QApiHZqShrJ_Flij&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9nVgzLqhICYSk6VCRuLo6bSWO5wxMD1eCZIyssVemlhA&oe=62989569&_nc_sid=7bff83?width=676&height=676">
 </div>
   
   ##
