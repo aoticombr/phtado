@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh9-1.fna.fbcdn.net/v/t51.2885-19/264220838_617920306190935_5592170379746056073_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgh9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=pvSBNmtyqrEAX8uHtVv&tn=QApiHZqShrJ_Flij&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9nVgzLqhICYSk6VCRuLo6bSWO5wxMD1eCZIyssVemlhA&oe=62989569&_nc_sid=7bff83?width=676&height=676">
 </div>
