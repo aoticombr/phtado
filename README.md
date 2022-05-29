@@ -84,10 +84,10 @@
   <p>Criação de serviços do windows para Envio/Recebimento de dados via (FTP, SOAP e REST), Processamento de Planilhas, Envio de Email, Geração de dados em horarios programados, replicação de dados e monitoramento.
   </br>
   <h1>JavaScript</h1>
-  <p>Criação de API com integração bancaria com Bradesco PIX.
-  <p>Criação de API(Node) para sistemas em Delphi e Embarcados.
-  <p>Criação de Site(Express.js) como www.aoti.com.br.
-  <p>Criação de ERP(React.js) para o www.aoti.com.br.
+  <p>Criação de BackEnd(Node) para ferramenta de pagamento online com integração bancaria e geração de PIX.
+  <p>Criação de BackEnd(Node) para API de dados para sistemas em Delphi e Embarcados.
+  <p>Criação de FrontEnd(Express.js) de sites integrativos com consumo de dados de API
+  <p>Criação de Site/ERP(React.js) criação de site e ERP, com uso de React-Bootstrap 
   <p>Criação de APP(React Native) para celulares visando integração de dados em tempo real alimentando uma API.
   </br>
   <h1>Java</h1>
