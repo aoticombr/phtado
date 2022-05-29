@@ -74,11 +74,11 @@
 
 <div>
   <h1>Delphi</h1>
-  <p>Criador do RAPTOR(DB) Ambiente de Desenvolvimento Integrado (IDE) para Bancos de Dados Relacionais, ferramenta para administrar bancos de dados PostgreSQL, Oracle e MySQL
+  <p>Criador do RAPTOR(DB) Ambiente de Desenvolvimento Integrado (IDE) para Bancos de Dados Relacionais, ferramenta para administrar bancos de dados PostgreSQL, Oracle e MySQL, atualmente a ferramenta contempla ferramentas de gestão de banco de dados e administração como também ferramenta para o desenvolvedor visando facilitar sua vida em criar querys, trigger, procedures e muitas outras funções.
   <p>Criador do RAPTOR(PHP) Ambiente de Desenvolvimento Integrado (IDE) para PHP, ferramenta para gerar fontes PHP para um Framework propria.  
   <p>Criador do RAPTOR(JavaScript) Ambiente de Desenvolvimento Integrado (IDE) para JavaScript, ferramenta para gerar fontes NODE e React.JS.
   <p>Criador do SATESB(SISTEMA AVANÇADO DE TESTE DE BOMBEAMENTO) sistema para Geologia e Hidrogeologia, sistema geologico mais completo do brasil.
-  <p>Criador do SIRE(Sistema Integrado de Resultado) sistema ERP para construção.
+  <p>Criador do SAPPER(Sistema Avançado Para Perfuradores de Poços) sistema ERP para construção, como construtor de relatórios em tempo real embutido, como emissor de Notas usando componentes da ACBR, e o uso estruturado de tabelas de calculos para automatizar calculos dentro do sistema, assim o usuário pode criar e calcular impostos sem ter que programar, então se surgir um tributo novo basta ele cadastrar esse tributo novo e especificar sua forma, a mesma tecnologia foi usada para fazer calculos de forma de pagamento, sistema também conta com contabilidade integrada com integração de Centro de custo e Departamento. Projeto se encontra parado devido separação de sociedade.
   </br>
   <h1>JavaScript</h1>
   <p>Criação de API com integração bancaria com Bradesco PIX.
