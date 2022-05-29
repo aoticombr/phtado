@@ -73,6 +73,9 @@
 ##
 
 <div>
-  teste
+  <h1>Delphi</h1>
+  <p>Criador do RAPTOR(DB) Ambiente de Desenvolvimento Integrado (IDE) para Bancos de Dados Relacionais, ferramenta para administrar bancos de dados PostgreSQL, Oracle e MySQL
+  <p>Criador do RAPTOR(PHP) Ambiente de Desenvolvimento Integrado (IDE) para PHP, ferramenta para gerar fontes PHP para um Framework propria.  
+  <p>Criador do RAPTOR(JavaScript) Ambiente de Desenvolvimento Integrado (IDE) para JavaScript, ferramenta para gerar fontes NODE e React.JS.
 </div>
  
