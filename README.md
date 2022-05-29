@@ -77,15 +77,15 @@
   <p>Criador do RAPTOR(DB) Ambiente de Desenvolvimento Integrado (IDE) para Bancos de Dados Relacionais, ferramenta para administrar bancos de dados PostgreSQL, Oracle e MySQL, atualmente a ferramenta contempla ferramentas de gestão de banco de dados e administração como também ferramenta para o desenvolvedor visando facilitar sua vida em criar querys, trigger, procedures e muitas outras funções.
   <p>Criador do RAPTOR(PHP) Ambiente de Desenvolvimento Integrado (IDE) para PHP, ferramenta para gerar fontes PHP para um Framework propria.  
   <p>Criador do RAPTOR(JavaScript) Ambiente de Desenvolvimento Integrado (IDE) para JavaScript, ferramenta para gerar fontes NODE e React.JS.
-  <p>Criador do SATESB(Sistema Avançado de Teste de Bombeamento) sistema para Geologia e Hidrogeologia, sistema geologico mais completo do brasil.
+  <p>Criador do SATESB(Sistema Avançado de Teste de Bombeamento) sistema para Geologia e Hidrogeologia, sistema geologico mais completo do brasil, a ferramenta integra dados do IBGE, gera desenho estruturado de poços via Canvas, gera mapa com estruturação de cartografia, faz geo processamento, gera relatórios personalizados, faz preenchimento de arquivos, e possui milhares de outros recursos.
   <p>Criador do SAPPER(Sistema Avançado Para Perfuradores de Poços) sistema ERP para construção, como construtor de relatórios em tempo real embutido, como emissor de Notas usando componentes da ACBR, e o uso estruturado de tabelas de calculos para automatizar calculos dentro do sistema, assim o usuário pode criar e calcular impostos sem ter que programar, então se surgir um tributo novo basta ele cadastrar esse tributo novo e especificar sua forma, a mesma tecnologia foi usada para fazer calculos de forma de pagamento, sistema também conta com contabilidade integrada com integração de Centro de custo e Departamento. Projeto se encontra parado devido separação de sociedade.
   <p>Criador do PARTNER(Sistema Para Constrole de Clubs) sistema foi construido para atender as AABB`s(Associação Atletica do Banco do Brasil) de todo o brasil, atualmente é usado para gerir o club e seus associados, atendendo em toda parte de ERP do mesmo. 
   <p>Criação de components do zero, para calendarios integrativos, paineis estilo Kanban, paineis de atendimento personalizado, componentes para manibulação de dados, criação de grids integrativas, componentes para Json, components para geração de excel, componentes para simulação de impressora Matricial e melhoria em componentes de terceiro.
+  <p>Criação de serviços do windows para Envio/Recebimento de dados via (FTP, SOAP e REST), Processamento de Planilhas, Envio de Email, Geração de dados em horarios programados, replicação de dados e monitoramento.
   </br>
   <h1>JavaScript</h1>
   <p>Criação de API com integração bancaria com Bradesco PIX.
-  <p>Criação de API(Node) para sistemas em Delphi.
-  <p>Criação de API(Node) para sistemas embarcados.
+  <p>Criação de API(Node) para sistemas em Delphi e Embarcados.
   <p>Criação de Site(Express.js) como www.aoti.com.br.
   <p>Criação de ERP(React.js) para o www.aoti.com.br.
   <p>Criação de APP(React Native) para celulares visando integração de dados em tempo real alimentando uma API.
