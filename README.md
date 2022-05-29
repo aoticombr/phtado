@@ -86,6 +86,7 @@
   <p>Criação de API(Node) para sistemas embarcados.
   <p>Criação de Site(Express.js) como www.aoti.com.br.
   <p>Criação de ERP(React.js) para o www.aoti.com.br.
+  <p>Criação de APP(React Native) para celulares visando integração de dados em tempo real alimentando uma API.
   </br>
   <h1>Java</h1>
   <p>Criação de API(Java) para integração como integração de terceiros.
