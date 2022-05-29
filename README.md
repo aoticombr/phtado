@@ -87,5 +87,11 @@
   <p>Criação de Site(Express.js) como www.aoti.com.br.
   <p>Criação de ERP(React.js) para o www.aoti.com.br.
   </br>
+  <h1>Java</h1>
+  <p>Criação de API(Java) para integração como integração de terceiros.
+  </br>
+  <h1>PHP</h1>
+  <p>Criação de Framework(PHP) propria denominada Delphi For PHP, onde foram construidas classes e componentes com estrututra similar ao do Delphi, o projeto consistia ser uma imitação do delphi porem para PHP onde um programador Delphi se sentiria em casa programando em PHP da mesma forma que programa em Delphi tendo os mesmo componentes. Junto a isso foi contruido uma IDE(Raptor) que gerava fontes usando essa framework que reduzia o trabalhor empregado pelo programador tendo o mesmo apenas que programar as regras de negocio. 
+  </br>
 </div>
  
