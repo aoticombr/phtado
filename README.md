@@ -77,5 +77,15 @@
   <p>Criador do RAPTOR(DB) Ambiente de Desenvolvimento Integrado (IDE) para Bancos de Dados Relacionais, ferramenta para administrar bancos de dados PostgreSQL, Oracle e MySQL
   <p>Criador do RAPTOR(PHP) Ambiente de Desenvolvimento Integrado (IDE) para PHP, ferramenta para gerar fontes PHP para um Framework propria.  
   <p>Criador do RAPTOR(JavaScript) Ambiente de Desenvolvimento Integrado (IDE) para JavaScript, ferramenta para gerar fontes NODE e React.JS.
+  <p>Criador do SATESB(SISTEMA AVANÇADO DE TESTE DE BOMBEAMENTO) sistema para Geologia e Hidrogeologia, sistema geologico mais completo do brasil.
+  <p>Criador do SIRE(Sistema Integrado de Resultado) sistema ERP para construção.
+  </br>
+  <h1>JavaScript</h1>
+  <p>Criação de API com integração bancaria com Bradesco PIX.
+  <p>Criação de API(Node) para sistemas em Delphi.
+  <p>Criação de API(Node) para sistemas embarcados.
+  <p>Criação de Site(Express.js) como www.aoti.com.br.
+  <p>Criação de ERP(React.js) para o www.aoti.com.br.
+  </br>
 </div>
  
