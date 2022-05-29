@@ -96,5 +96,13 @@
   <h1>PHP</h1>
   <p>Criação de Framework(PHP) propria denominada Delphi For PHP, onde foram construidas classes e componentes com estrututra similar ao do Delphi, o projeto consistia ser uma imitação do delphi porem para PHP onde um programador Delphi se sentiria em casa programando em PHP da mesma forma que programa em Delphi tendo os mesmo componentes. Junto a isso foi contruido uma IDE(Raptor) que gerava fontes usando essa framework que reduzia o trabalho empregado pelo programador tendo o mesmo apenas que programar as regras de negocio, já que a ferramenta também gerava toda parte visual. 
   </br>
+  <h1>ARDUINO</h1>
+  <p>Criação de projetos de hardware para captura de dados climaticos, Envio/Recebimento de dados via RFID, monitoramento de Animais com sensores de movimento, controle de alimentação de animais, sistemas de portaria e ponto com RFID, testadores de maquina de lavar, controladores para esteiras de academia, constroladores de paineis para motores trifasicos.
+  <p>Criação de automação animal, com uso de brincos e coleiras de RFID era possivel saber os comportamentos dos animais tanto no pasto como no cercado, sabendo quantidade de alimento consumido e a quantidade consumida de agua por animal, em alguns casos com uso da coleira poderia se saber a temperatura do animal e a temperatura do ambiente podendo disparar irrigadores de agua para refrescar o ambiente ou ate ativar ventiladores dentro do ambiente para garantir a engorda do animal e qualidade do leite das vacas diminuindo o estresse do animal.
+  <p>Criação de automação de apicultra, como sensores de nivel e preso das colmeias com datação dos dados de produção. 
+  <p>Criação de um Sonar para medir nivel estativo de agua como captura de dados por tempo para uso em teste de bombeamento.
+  <p>Criação de automação residencial com controle via mobile.
+  <p>Criação de Inversor de frequencia para motores usados em esteiras de academia, o projeto foi visado para facilitar manutenção dos equipamento já que a maioria desses equipamento tem um custo bem alto de placas.
+  </br>
 </div>
  
